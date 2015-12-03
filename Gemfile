@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://ruby.taobao.org'
 
 gem 'will_paginate', '>= 3.0.pre'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
